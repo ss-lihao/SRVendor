@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "SRVendor"
-  s.version      = "0.1.0"
+  s.version      = "0.1.1"
   s.summary      = "services of skinrun."
 
   s.homepage     = "https://github.com/ss-lihao/SRVendor"
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.platform     = :ios, "7.0"
 
-  s.source       = { :git => "https://github.com/ss-lihao/SRVendor.git", :tag => "0.1.0"}
+  s.source       = { :git => "https://github.com/ss-lihao/SRVendor.git", :tag => "0.1.1"}
 
   s.source_files  = "SRVendor/**/*.{h,m}"
 
