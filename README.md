@@ -1,3 +1,0 @@
-# SRVendor
-
-service of skinrun
